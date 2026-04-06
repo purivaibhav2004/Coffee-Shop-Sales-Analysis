@@ -113,5 +113,5 @@ This project demonstrates how raw transactional data can be transformed into act
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: (Add your link)
-- GitHub: (Add your link)
+- LinkedIn: www.linkedin.com/in/vaibhav-puri-802256320
+- GitHub:https://github.com/purivaibhav2004
